@@ -1,0 +1,4 @@
+MODE = bwa-storegg
+MONGO_URL =
+MONGO_URL =
+SECRET = 
